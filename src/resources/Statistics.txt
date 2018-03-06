@@ -1,0 +1,6 @@
+---Statistics Cleared---
+Numbers Skipped: 0
+Correct Guesses: 0
+Total Guesses: 0
+Games Played: 0
+Success Rate: 0
